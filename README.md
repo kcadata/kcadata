@@ -49,7 +49,7 @@
 <h2>⚙️프로젝트</h2>
 <hr>
 
-<img width="500px" height="100px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/9d990815-2177-4cfe-a471-0efd19446900">
+<img width="500px" height="140px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/9d990815-2177-4cfe-a471-0efd19446900">
 <h3> ▶ Wellness Trip Planner </h3>
 <h4> 건강하고(wellbeing) + 행복한(happiness) 전라남도 여행을 위한 스케줄러 프로그램 </h4>
 기간 : 2024.02.23 ~ 2022.04.04 <br>
