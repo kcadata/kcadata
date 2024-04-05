@@ -6,14 +6,14 @@
 - 재밌는프로그램이나 게임을 만들고 싶습니다.
 <hr>
 - Email | kcabigdata@gamil.com <br>
-- Gitgub | https://github.com/kcadata <br> 
+- Gitgub | https://github.com/kcadata <br> <br>
 
 
 <table>
      <tr>
         <td>Back-End</td>
         <td>
-          <img width="57px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/1afcacfa-ce9e-481b-ba42-14c2320c5d13">
+          <img width="57px" height="28px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/1afcacfa-ce9e-481b-ba42-14c2320c5d13">
             <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>            
         </td>
     </tr>
@@ -30,6 +30,8 @@
         <td>
             <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>         
             <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -38,11 +40,5 @@
             <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
         </td>
     </tr>
-    <tr>
-        <td>협업도구</td>
-        <td>
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-        </td>
-    </tr>
+  
 </table>
