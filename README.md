@@ -49,7 +49,7 @@
 <h2>⚙️프로젝트</h2>
 <hr>
 
-<img width="500px" height="80px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/ab2f9ae4-a29e-43b8-99fb-f26e2393a94d">
+<img width="500px" height="100px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/ab2f9ae4-a29e-43b8-99fb-f26e2393a94d">
 <h3> ▶ First Mini Project </h3>
 <h4>노래를 듣고 노래제목을 맞추는 게임 프로젝트</h4>
   기간 : 2024년 1월 30일 ~ 2024년 2월 2일 <br>
