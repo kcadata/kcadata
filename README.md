@@ -5,7 +5,7 @@
 - 대AI 시대를 맞이하여 프로그래밍공부에 몰입하고 있습니다. <br>
 - 재밌는프로그램이나 게임을 만들고 싶습니다. <br><br>
 
-- Email | kcabigdata@gamil.com <br>
+- Email | kcabigdata@gmail.com <br>
 - Gitgub | https://github.com/kcadata <br> <br>
 <hr>
 
