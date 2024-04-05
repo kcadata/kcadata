@@ -5,14 +5,15 @@
 - 대AI 시대를 맞이하여 프로그래밍공부에 몰입하고 있습니다. <br>
 - 재밌는프로그램이나 게임을 만들고 싶습니다.
 <hr>
-- Email | kcabigdata@gamil.com
-- Gitgub | https://github.com/kcadata 
+- Email | kcabigdata@gamil.com <br>
+- Gitgub | https://github.com/kcadata <br> 
 
 
 <table>
      <tr>
         <td>Back-End</td>
         <td>
+          <img width="573" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/1afcacfa-ce9e-481b-ba42-14c2320c5d13">
             <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>            
         </td>
     </tr>
