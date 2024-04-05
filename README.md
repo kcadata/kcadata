@@ -1,5 +1,5 @@
-<h2>🙂 무언가를만드는게 즐거운  개발자, 권창안 입니다.</h2>
 <hr>
+<h2>🙂 무언가를만드는게 즐거운  개발자, 권창안 입니다.</h2>
      • 안녕하세요 백-앤드를 공부하고 있는 권창안입니다.<br>
      • 코딩이 잘 풀리지않으면 지옥이지만 코딩이 생각되는대로 되면 아주 즐겁습니다.<br>
      • 대AI 시대를 맞이하여 프로그래밍공부에 몰입하고 있습니다. <br>
@@ -7,9 +7,9 @@
 
 - Email | kcabigdata@gmail.com <br>
 - Gitgub | https://github.com/kcadata <br> <br>
+
+
 <hr>
-
-
 <h2>🔧Skill</h2>
 <table>
      <tr>
@@ -46,9 +46,9 @@
 </table>
 <br>
 
-
-<h2>⚙️프로젝트</h2>
 <hr>
+<h2>⚙️프로젝트</h2>
+
 
 <h2> 1. Wellness Trip Planner </h2>
 <img width="500px" height="150px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/9d990815-2177-4cfe-a471-0efd19446900">
@@ -79,8 +79,8 @@
 <h3> ▶ 문제해결 </h3>
      • java 기본기능만을 이용해서 음악출력시간을 조절하기 위해 sleep() 함수 기능을 사용. <br><br><br>
 
-<hr>
 
+<hr>
 <h2>⚙️Education</h2>
 
 <h3>빅데이터 분석서비스 개발자과정</h3>
