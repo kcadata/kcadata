@@ -50,8 +50,8 @@
 <hr>
 
 <h3> 1. Wellness Trip Planner </h3>
-<img width="500px" height="140px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/9d990815-2177-4cfe-a471-0efd19446900">
-
+<img width="500px" height="150px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/9d990815-2177-4cfe-a471-0efd19446900">
+<h4> ▶ PM </h4>
 <h4> ▶ 건강하고(wellbeing) + 행복한(happiness) 전라남도 여행을 위한 스케줄러 프로그램 </h4>
 • 기간 : 2024.02.23 ~ 2022.04.04 <br>
 • 관광지 선택시 관광지의 위치를 파악하기 위한카카오맵 api 연결 마커 찍기구현<br>
