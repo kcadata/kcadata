@@ -49,11 +49,14 @@
 <h2>⚙️프로젝트</h2>
 <hr>
 
-
-
-
-
-
+<img width="500px" height="100px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/9d990815-2177-4cfe-a471-0efd19446900">
+<h3> ▶ Wellness Trip Planner </h3>
+<h4> 건강하고(wellbeing) + 행복한(happiness) 전라남도 여행을 위한 스케줄러 프로그램 </h4>
+기간 : 2024.02.23 ~ 2022.04.04 <br>
+- 카카오맵 api 연결 마커 찍기구현
+- 드래그앤 드롭 구현
+- 전체페이지보기 구현
+- 관광지 페이징 구현
 
 
 <img width="500px" height="100px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/ab2f9ae4-a29e-43b8-99fb-f26e2393a94d">
