@@ -79,7 +79,7 @@ https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad.git
      • 메인페이지 출력 아스키아트 작성 <br>
 
 <h3> ▶ 문제해결 </h3>
-     • java 기본기능만을 이용해서 음악출력시간을 조절하기 위해 sleep() 함수 기능을 사용. <br><br><br>
+     • java 기본기능만을 이용해서 음악출력시간을 조절하기 위해 sleep() 함수 기능을 사용. <br><br>
 
 https://github.com/kcadata/FirstMini.git
 
