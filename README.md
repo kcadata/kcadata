@@ -66,6 +66,8 @@
      • 날짜관련 데이터교환이 충돌이 많다. db 의 날짜와 input 박스의 날짜 형식이 같지 않다.  <br>
      • 00:00:00 을 없애고 String 형태로 넣으면 연결할 수 있다.<br><br>
 
+https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad.git
+
 <h2> 2. First Mini Project </h3>
 <img width="500px" height="100px" alt="image" src="https://github.com/kcadata/kcadata/assets/157599955/ab2f9ae4-a29e-43b8-99fb-f26e2393a94d">
 
